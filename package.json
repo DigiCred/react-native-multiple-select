@@ -49,6 +49,7 @@
     "eslint-plugin-react-native": "^3.7.0",
     "husky": "^0.14.3",
     "jest": "^23.3.6",
+    "react-native-modal": "^11.0.2",
     "lint-staged": "^5.0.0",
     "prettier": "^1.15.3",
     "react-test-renderer": "16.6.3",
